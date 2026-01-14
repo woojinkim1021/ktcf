@@ -14,7 +14,7 @@ This code appendix contains the source code, scripts, and configuration files us
 
 ---
 
-## Requirements
+## 📍 Requirements
 
 * Python 3.12.11
 * See `requirements.txt` for a full list of dependencies
@@ -28,7 +28,7 @@ This code appendix contains the source code, scripts, and configuration files us
 
 ---
 
-## Code Appendix Structure
+## 📂 Code Appendix Structure
 
 ```
 ├── configs/                              # configurations of DKT
